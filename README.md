@@ -1,11 +1,11 @@
 <h2> Hey there! I'm Charan babu Karnam 👋
+<hr>
 <p align="left"> <a href="https://twitter.com/this_is_kcb" target="blank"><img src="https://img.shields.io/twitter/follow/this_is_kcb?logo=twitter&style=for-the-badge" alt="this_is_kcb" /></a> </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-
-
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 🔭 &nbsp; I’m currently working on **Stencil** based Design Systems
 - 🔭 &nbsp; I’m currently learning React Native Mobile Development.
 - 💼 &nbsp; Full stack developer and front-end heavy web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
@@ -14,11 +14,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Node | Kotlin | Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Typescript | Angular | React | Vue | Web components
+- 💻 &nbsp; Node | Express | Kotlin | Java
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Typescript | Angular 1 & 2+ | React | Vue | Redux | Web components | Sass | Babel | Webpack
 - 🛢 &nbsp; MySQL | Oracle SQL
-- 🔧 &nbsp;Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💉 &nbsp; Cypress | Jasmine | Karma | Jest
+- ☁️ &nbsp; AWS | Docker | Jenkins
+- 🔧 &nbsp;Visual Studio code | Eclipse | Git | Postman | Swagger
 
 <br>
 
