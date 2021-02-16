@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on **Stencil** based Design Systems
+- 🔭 &nbsp; I’m currently working on **Stencil** based Design
 - 🔭 &nbsp; I’m currently learning React Native Mobile Development.
 - 💼 &nbsp; Full stack developer and front-end heavy web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
@@ -16,19 +16,19 @@
 
 - 💻 &nbsp; Node | Express | Kotlin | Java
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Typescript | Angular 1 & 2+ | React | Vue | Redux | Web components | Sass | Babel | Webpack
-- 🛢 &nbsp; MongoDB | Oracle SQL
+- 🛢 &nbsp; MySQL | Oracle SQL
 - 💉 &nbsp; Cypress | Jasmine | Karma | Jest
-- ☁️ &nbsp; AWS | Docker | Jenkins | Groovy
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git | Postman | Swagger
+- ☁️ &nbsp; AWS | Docker | Jenkins
+- 🔧 &nbsp;Visual Studio code | Eclipse | Git | Postman | Swagger
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=desdevcharan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Charan's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=desdevcharan&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=gotham&bg_color=0,000000,130F40" alt="Charan's Github Stats">
 
 </br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desdevcharan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desdevcharan&layout=compact&theme=gotham)](https://github.com/devSouvik/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
