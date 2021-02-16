@@ -7,10 +7,10 @@
 
 - 🧟 &nbsp; I’m currently working on **Stencil** based Design system.
 - 🔭 &nbsp; I’m currently learning React Native Mobile Development.
-- 💼 &nbsp; Full stack developer and front-end heavy web developer.
+- 💼 &nbsp; I'm a Full stack developer and front-end heavy web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎦 &nbsp; I belive, a perfect movie night can be the ultimate solution for any stress.
+- 🎦 &nbsp; I believe, a perfect movie night can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
