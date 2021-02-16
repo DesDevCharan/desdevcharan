@@ -18,7 +18,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Typescript | Angular 1 & 2+ | React | Vue | Redux | Web components | Sass | Babel | Webpack
 - 🛢 &nbsp; MongoDB | Oracle SQL
 - 💉 &nbsp; Cypress | Jasmine | Karma | Jest
-- ☁️ &nbsp; AWS | Docker | Jenkins
+- ☁️ &nbsp; AWS | Docker | Jenkins | Groovy
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git | Postman | Swagger
 
 <br>
