@@ -16,10 +16,10 @@
 
 - 💻 &nbsp; Node | Express | Kotlin | Java
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Typescript | Angular 1 & 2+ | React | Vue | Redux | Web components | Sass | Babel | Webpack
-- 🛢 &nbsp; MySQL | Oracle SQL
+- 🛢 &nbsp; MongoDB | Oracle SQL
 - 💉 &nbsp; Cypress | Jasmine | Karma | Jest
 - ☁️ &nbsp; AWS | Docker | Jenkins
-- 🔧 &nbsp;Visual Studio code | Eclipse | Git | Postman | Swagger
+- 🔧 &nbsp; Visual Studio code | Eclipse | Git | Postman | Swagger
 
 <br>
 
