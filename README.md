@@ -1,5 +1,5 @@
-<h2> Hey there! I'm Charan babu Karnam 👋
-<br>
+<h2> Hey there! I'm Charan babu Karnam 👋</h2>
+
 <p align="left"> <a href="https://twitter.com/this_is_kcb" target="blank"><img src="https://img.shields.io/twitter/follow/this_is_kcb?logo=twitter&style=for-the-badge" alt="this_is_kcb" /></a> </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
