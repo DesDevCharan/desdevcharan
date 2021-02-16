@@ -15,12 +15,13 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Node | Express | Kotlin | Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Typescript | Angular 1 & 2+ | React | Vue | Redux | Web components | Sass | Babel | Webpack
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Typescript | Angular 1 & 2+ | React | Redux | Web components | Sass | Babel | Webpack
 - 🛢 &nbsp; MongoDB | Oracle SQL
 - 💉 &nbsp; Cypress | Jasmine | Karma | Jest
 - ☁️ &nbsp; AWS | Docker | Jenkins | Groovy
 - 🔧 &nbsp;Visual Studio code | Eclipse | Git | Postman | Swagger
 
+*POC Level Experience in Vue | Kotlin | MongoDB
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=desdevcharan&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=gotham&bg_color=0,000000,130F40" alt="Charan's Github Stats">
