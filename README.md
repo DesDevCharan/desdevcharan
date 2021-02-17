@@ -29,7 +29,7 @@
 </br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desdevcharan&layout=compact&theme=gotham)](https://github.com/desdevcharan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desdevcharan&layout=compact&theme=gotham)](https://github.com/desdevcharan/)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
